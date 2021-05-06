@@ -1,5 +1,7 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo Mejorado
 
-Autho. Francisco Israel 
+Mejoras 
+
+Author. Francisco Israel 
+Especialista: Computacion Cuántica
 Fecha. 6-5-2021
